@@ -1,1 +1,2 @@
-"# boludos.github.io" 
+boludos.xyz
+ctrl + c -> ctrl + v
